@@ -23,3 +23,5 @@ Technologies Used:
 HTML
 CSS
 JavaScript
+
+Live Demo:https://ishikajain24.github.io/Rock-paper-scissors/
